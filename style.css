@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: #201b2c;
+}
+
+.heading > h1 {
+    width: 100vw;
+    height: 10vh;
+    color: #77ffc0;
+    font-size: 40px;
+
+}
+
+.sub-heading{
+    color: #77ffc0;
+    font-size: 40px;
+}
+
+.one {
+    color: #77ffc0;
+    font-size: 40px;
+}
+
+.two {
+    color: #77ffc0;
+    font-size: 40px;
+}
+
+.oi {
+    color: #77ffc0;
+    font-size: 40px;
+}
+
+
+
+.api{
+    color: #77ffc0;
+    font-size: 40px;
+}
